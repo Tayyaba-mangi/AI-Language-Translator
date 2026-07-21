@@ -12,12 +12,12 @@ Create a language translation application using an AI translation API, allowing 
 - Handles invalid language codes, empty input, and API errors gracefully
 - Bonus: Converts the translated text to speech (audio playback) using gTTS
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - [`deep-translator`](https://pypi.org/project/deep-translator/) — translation via Google Translate
 - [`gTTS`](https://pypi.org/project/gTTS/) — Google Text-to-Speech
 
-## ⚙️ Installation
+## Installation
 ```bash
 pip install deep-translator gTTS
 ```
