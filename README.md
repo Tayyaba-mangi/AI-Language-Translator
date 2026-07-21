@@ -54,7 +54,11 @@ Do you want to hear the translation? (y/n): y
 - Add a dynamic dropdown of all supported languages instead of typing codes
 
 ## Author
-Tayyaba-mangi
+Tayyaba Mangi
+
+Electronics Engineering Student
+
+Mehran University of Engineering and Technology (MUET)
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
