@@ -17,6 +17,20 @@ Create a language translation application using an AI translation API, allowing 
 - [`deep-translator`](https://pypi.org/project/deep-translator/) — translation via Google Translate
 - [`gTTS`](https://pypi.org/project/gTTS/) — Google Text-to-Speech
 
+- ## 📂 Project Structure
+
+```
+AI-Language-Translator/
+│── .gitignore
+│── LANGUAGE_TRANSLATOR.ipynb
+│── LICENSE
+│── README.md
+│── Task1_Language_Translation_Report CODEALPHA.docx
+│── image.png
+│── language-translator.txt
+└── language_translator.py
+```
+
 ## Installation
 ```bash
 pip install deep-translator gTTS
